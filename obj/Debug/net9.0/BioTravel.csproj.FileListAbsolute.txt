@@ -1,0 +1,14 @@
+D:\Programas\GarotadePrograma PUC\BioTravel\bin\Debug\net9.0\BioTravel.exe
+D:\Programas\GarotadePrograma PUC\BioTravel\bin\Debug\net9.0\BioTravel.deps.json
+D:\Programas\GarotadePrograma PUC\BioTravel\bin\Debug\net9.0\BioTravel.runtimeconfig.json
+D:\Programas\GarotadePrograma PUC\BioTravel\bin\Debug\net9.0\BioTravel.dll
+D:\Programas\GarotadePrograma PUC\BioTravel\bin\Debug\net9.0\BioTravel.pdb
+D:\Programas\GarotadePrograma PUC\BioTravel\obj\Debug\net9.0\BioTravel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas\GarotadePrograma PUC\BioTravel\obj\Debug\net9.0\BioTravel.AssemblyInfoInputs.cache
+D:\Programas\GarotadePrograma PUC\BioTravel\obj\Debug\net9.0\BioTravel.AssemblyInfo.cs
+D:\Programas\GarotadePrograma PUC\BioTravel\obj\Debug\net9.0\BioTravel.csproj.CoreCompileInputs.cache
+D:\Programas\GarotadePrograma PUC\BioTravel\obj\Debug\net9.0\BioTravel.dll
+D:\Programas\GarotadePrograma PUC\BioTravel\obj\Debug\net9.0\refint\BioTravel.dll
+D:\Programas\GarotadePrograma PUC\BioTravel\obj\Debug\net9.0\BioTravel.pdb
+D:\Programas\GarotadePrograma PUC\BioTravel\obj\Debug\net9.0\BioTravel.genruntimeconfig.cache
+D:\Programas\GarotadePrograma PUC\BioTravel\obj\Debug\net9.0\ref\BioTravel.dll
